@@ -1,2 +1,2 @@
 # learnpython_for_infra
-Infrastrcture programming
+Infrastructure programming
